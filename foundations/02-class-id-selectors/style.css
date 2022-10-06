@@ -1,0 +1,20 @@
+/* stylesheet */
+
+.odd {
+    background-color: #ffb6ff;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#four {
+background-color: #90ee90;
+font-weight: bold;
+}
+
+#four,
+.odd.big {
+font-size: 24px;
+}
