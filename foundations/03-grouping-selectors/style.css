@@ -1,0 +1,14 @@
+/* stylesheet */
+.clickm{
+    background-color: black;
+    color: white;
+}
+.nclick {
+    background-color: yellow;
+}
+.clickm,
+.nclick {
+        font-family: 'Times New Roman', Helvetica, sans-serif;
+        font-size: 28px;
+
+}
